@@ -1,0 +1,39 @@
+{
+  "name": "wenuup-studio-launcher",
+  "version": "1.3.1",
+  "description": "Launcher oficial Wenuup Studio - Java",
+  "author": "WenuupStudio <wenuupweb@gmail.com>",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "dependencies": {
+    "electron-store": "^8.1.0",
+    "minecraft-launcher-core": "^3.18.0",
+    "msmc": "^4.0.0",
+    "prismarine-nbt": "^2.5.0"
+  },
+  "devDependencies": {
+    "electron": "^41.7.1",
+    "electron-builder": "^26.15.3"
+  },
+  "build": {
+    "appId": "live.wenuupstudio.launcher",
+    "productName": "Wenuup Studio Launcher",
+    "files": ["**/*", "!dist{,/**}", "!mods2{,/**}", "!modsoptimizado{,/**}", "!**/*.jar", "!assets{,/**}"],
+  "extraResources": [
+    { "from": "assets", "to": "assets" }
+  ],
+    "win": {
+      "icon": "build-icon.ico",
+      "target": [
+        "portable",
+        "nsis"
+      ]
+    },
+    "portable": {
+      "artifactName": "Wenuup-Studio-Launcher.exe"
+    }
+  }
+}

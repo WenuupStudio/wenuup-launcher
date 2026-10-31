@@ -1,0 +1,37 @@
+# ── Dependencias ────────────────────────────────────────────────
+node_modules/
+
+# ── Compilados ──────────────────────────────────────────────────
+dist/
+*.exe
+*.blockmap
+*.7z
+*.zip
+
+# ── Mods (no se redistribuyen) ──────────────────────────────────
+# Los .jar NO se publican: el instalador ya los incluye y los
+# jugadores no necesitan clonar el repositorio. Ver assets/mods/README.md
+*.jar
+
+# ── Carpetas de trabajo locales (no son parte del proyecto) ─────
+mods2/
+modsoptimizado/
+
+
+# ── Datos de juego / perfiles ───────────────────────────────────
+wenuup-mc/
+servers.dat
+launcher_profiles.json
+*.log
+
+# ── Notas internas de trabajo (no se publican) ─────────────────
+LEEME.txt
+ANALISIS_MODS.md
+notas/
+*.local.md
+
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

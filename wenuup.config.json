@@ -1,0 +1,1375 @@
+{
+    "brand":  "Wenuup Studio",
+    "minecraft":  "1.21.1",
+    "java":  {
+                 "major":  21
+             },
+    "defaultMemory":  "4",
+    "links":  {
+                  "creador":  {
+                                  "x":  "https://x.com/Alee_Ij",
+                                  "web":  "https://wenuupstudio.cl/",
+                                  "instagram":  "https://www.instagram.com/wenuupstudio/",
+                                  "github":  "https://github.com/WenuupStudio/wenuup-launcher"
+                              }
+              },
+    "packs":  [
+                  {
+                      "id":  "optimizado",
+                      "label":  "Optimizado",
+                      "description":  "Pack ligero de optimizacion y calidad. 50 mods. Incluye mejoras de rendimiento, luces dinamicas y utilidades.",
+                      "weight":  "light",
+                      "animations":  true,
+                      "modsCount":  50,
+                      "sizeMB":  50
+                  },
+                  {
+                      "id":  "hard",
+                      "label":  "Hard",
+                      "description":  "Pack pesado con animaciones y muchas utilidades. 83 mods, ~110MB. Requiere PC potente.",
+                      "weight":  "heavy",
+                      "animations":  true,
+                      "modsCount":  83,
+                      "sizeMB":  110
+                  }
+              ],
+    "mods":  [
+                 {
+                     "name":  "BetterGrassify-1.8.6+fabric.1.21.1.jar",
+                     "label":  "Better Grassify",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/BetterGrassify-1.8.6+fabric.1.21.1.jar",
+                     "sha1":  "f006203d16fe3d516dbc822b5616427f834725db",
+                     "size":  87323
+                 },
+                 {
+                     "name":  "CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar",
+                     "label":  "Crash Assistant",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar",
+                     "sha1":  "53bc09e3faf8b2e8eb100f5a29ddc0dc17f77f88",
+                     "size":  3170746
+                 },
+                 {
+                     "name":  "Debugify-1.21.1+1.0.jar",
+                     "label":  "Debugify",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/Debugify-1.21.1+1.0.jar",
+                     "sha1":  "6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4",
+                     "size":  292202
+                 },
+                 {
+                     "name":  "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+                     "label":  "Immediately Fast",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+                     "sha1":  "ff2be016b12128fc0cd875a21a307d681edde817",
+                     "size":  342770
+                 },
+                 {
+                     "name":  "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+                     "label":  "No Chat Reports",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+                     "sha1":  "789cabd9b1fed079af87f675d1d6c1c95b603e19",
+                     "size":  309410
+                 },
+                 {
+                     "name":  "animatica-0.6.1+1.21.jar",
+                     "label":  "Animatica",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/animatica-0.6.1+1.21.jar",
+                     "sha1":  "fd805fa03e25013b9fe824bf43f7d8a90f565c84",
+                     "size":  71502
+                 },
+                 {
+                     "name":  "bettermounthud-1.2.4.jar",
+                     "label":  "Bettermounthud",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/bettermounthud-1.2.4.jar",
+                     "sha1":  "4df822bd5bd7d2e125eb9c7fdb38bb4b6ee0476e",
+                     "size":  21013
+                 },
+                 {
+                     "name":  "capes-1.5.4+1.21-fabric.jar",
+                     "label":  "Capes",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/capes-1.5.4+1.21-fabric.jar",
+                     "sha1":  "11655909a800fd70e2e0ca940cddc2bdbcbe2003",
+                     "size":  77572
+                 },
+                 {
+                     "name":  "citresewn-1.2.2+1.21.jar",
+                     "label":  "Citresewn",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/citresewn-1.2.2+1.21.jar",
+                     "sha1":  "5569769f66eda6d51ca3ae56d58d5a4657f19ef9",
+                     "size":  396723
+                 },
+                 {
+                     "name":  "cloth-config-15.0.140-fabric.jar",
+                     "label":  "Cloth Config",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/cloth-config-15.0.140-fabric.jar",
+                     "sha1":  "5d82342a2df53fd6df712bfdd583a811572918a4",
+                     "size":  1157166
+                 },
+                 {
+                     "name":  "continuity-3.0.0+1.21.jar",
+                     "label":  "Continuity",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/continuity-3.0.0+1.21.jar",
+                     "sha1":  "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
+                     "size":  1014044
+                 },
+                 {
+                     "name":  "cwb-fabric-3.0.0+mc1.21.jar",
+                     "label":  "Cwb",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/cwb-fabric-3.0.0+mc1.21.jar",
+                     "sha1":  "0979201d1d131a3bf0594060c58da7dcb55aded6",
+                     "size":  81288
+                 },
+                 {
+                     "name":  "dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+                     "label":  "Dynamic Fps Minecraft",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar",
+                     "sha1":  "c0ee92c6d8a48e077aa9b02f3470619eab17d59c",
+                     "size":  217532
+                 },
+                 {
+                     "name":  "e4mc-fabric-6.1.1.jar",
+                     "label":  "E4mc",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/e4mc-fabric-6.1.1.jar",
+                     "sha1":  "23dd6fd57a85602c1ce434480794bebbedfc37a9",
+                     "size":  646740
+                 },
+                 {
+                     "name":  "enhancedblockentities-0.10.2+1.21.jar",
+                     "label":  "Enhancedblockentities",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/enhancedblockentities-0.10.2+1.21.jar",
+                     "sha1":  "d81359d77fc7c5437f3e83e519dc2f869300f0cd",
+                     "size":  201157
+                 },
+                 {
+                     "name":  "entity_model_features-3.2.4-1.21-fabric.jar",
+                     "label":  "Entity Model Features",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/entity_model_features-3.2.4-1.21-fabric.jar",
+                     "sha1":  "4538d0eec804c3a8f8c3a6809f687e362df588cf",
+                     "size":  565280
+                 },
+                 {
+                     "name":  "entity_texture_features_1.21-fabric-7.1.jar",
+                     "label":  "Entity Texture Features",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/entity_texture_features_1.21-fabric-7.1.jar",
+                     "sha1":  "2020e3884ada68d7aba1d54f182d32d511c40e5f",
+                     "size":  745421
+                 },
+                 {
+                     "name":  "entityculling-fabric-1.10.2-mc1.21.1.jar",
+                     "label":  "Entityculling",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/entityculling-fabric-1.10.2-mc1.21.1.jar",
+                     "sha1":  "7d78734241d291d2abea47ffacb4ea377cf83982",
+                     "size":  1592870
+                 },
+                 {
+                     "name":  "fabric-api-0.116.12+1.21.1.jar",
+                     "label":  "Api",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/fabric-api-0.116.12+1.21.1.jar",
+                     "sha1":  "90cd4212da24365fae24c0090234b053094b218b",
+                     "size":  2427037
+                 },
+                 {
+                     "name":  "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                     "label":  "Language Kotlin",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                     "sha1":  "2bc17bb4275cc70a12e4ac35d139a71a30845720",
+                     "size":  8076848
+                 },
+                 {
+                     "name":  "fabricskyboxes-0.7.4+mc1.21.jar",
+                     "label":  "Fabricskyboxes",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/fabricskyboxes-0.7.4+mc1.21.jar",
+                     "sha1":  "d7c80f23792afc6018da2477d46804114529afca",
+                     "size":  206127
+                 },
+                 {
+                     "name":  "fabrishot-1.14.1.jar",
+                     "label":  "Fabrishot",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/fabrishot-1.14.1.jar",
+                     "sha1":  "c8afc690bb3508df7db793f37e1fe5407dba2f22",
+                     "size":  51708
+                 },
+                 {
+                     "name":  "fastquit-3.0.0+1.20.6.jar",
+                     "label":  "Fastquit",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/fastquit-3.0.0+1.20.6.jar",
+                     "sha1":  "9c4bf4fc3292d627fe0eff85a96672a15f27338c",
+                     "size":  58822
+                 },
+                 {
+                     "name":  "ferritecore-7.0.3-fabric.jar",
+                     "label":  "Ferritecore",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/ferritecore-7.0.3-fabric.jar",
+                     "sha1":  "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+                     "size":  123450
+                 },
+                 {
+                     "name":  "fsb-interop-1.4.0+mc1.21-build.54.jar",
+                     "label":  "Fsb Interop",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/fsb-interop-1.4.0+mc1.21-build.54.jar",
+                     "sha1":  "ebd6d9f048b591cee8bbf90b23246f3369161868",
+                     "size":  73307
+                 },
+                 {
+                     "name":  "iris-fabric-1.8.8+mc1.21.1.jar",
+                     "label":  "Iris",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/iris-fabric-1.8.8+mc1.21.1.jar",
+                     "sha1":  "4e0df4011503b4b36ba69877ea7247c1a47fea00",
+                     "size":  2690177
+                 },
+                 {
+                     "name":  "lambdynamiclights-4.8.8+1.21.1.jar",
+                     "label":  "Lambdynamiclights",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/lambdynamiclights-4.8.8+1.21.1.jar",
+                     "sha1":  "d0ab30eebffdb999c07964c5775b199792b5cf46",
+                     "size":  2017417
+                 },
+                 {
+                     "name":  "language-reload-1.7.6+1.21.1.jar",
+                     "label":  "Language Reload",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/language-reload-1.7.6+1.21.1.jar",
+                     "sha1":  "95c1266f43e330d4848dcf2e11a6be98a8990ce5",
+                     "size":  75091
+                 },
+                 {
+                     "name":  "lithium-fabric-0.15.3+mc1.21.1.jar",
+                     "label":  "Lithium",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/lithium-fabric-0.15.3+mc1.21.1.jar",
+                     "sha1":  "c4a1c2b6de9915ac77ae46a005509d4acf09535d",
+                     "size":  797398
+                 },
+                 {
+                     "name":  "main-menu-credits-1.2.0.jar",
+                     "label":  "Main Menu Credits",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/main-menu-credits-1.2.0.jar",
+                     "sha1":  "37ad23f76336eedbd940a1f99c5e49d969fdee67",
+                     "size":  16640
+                 },
+                 {
+                     "name":  "malilib-fabric-1.21-0.21.10.jar",
+                     "label":  "Malilib",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/malilib-fabric-1.21-0.21.10.jar",
+                     "sha1":  "e2699ef71618c54fc03c6c8b28e336603596dcef",
+                     "size":  1411200
+                 },
+                 {
+                     "name":  "midnightlib-fabric-1.10.0+1.21.1.jar",
+                     "label":  "Midnightlib",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/midnightlib-fabric-1.10.0+1.21.1.jar",
+                     "sha1":  "3120b1329ab0d01b4af4e659495259bffee2ddae",
+                     "size":  63975
+                 },
+                 {
+                     "name":  "mixintrace-1.1.1+1.17.jar",
+                     "label":  "Mixintrace",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/mixintrace-1.1.1+1.17.jar",
+                     "sha1":  "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
+                     "size":  36039
+                 },
+                 {
+                     "name":  "modelfix-1.21-1.6-fabric.jar",
+                     "label":  "Modelfix",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/modelfix-1.21-1.6-fabric.jar",
+                     "sha1":  "b8069f2a672abdea1112daa6d716a0e482cf61ea",
+                     "size":  62761
+                 },
+                 {
+                     "name":  "modernfix-fabric-5.25.1+mc1.21.1.jar",
+                     "label":  "Modernfix",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/modernfix-fabric-5.25.1+mc1.21.1.jar",
+                     "sha1":  "4ab39e9c736e7204146792c545ec5b29fc0a3872",
+                     "size":  471258
+                 },
+                 {
+                     "name":  "modmenu-11.0.4.jar",
+                     "label":  "Modmenu",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/modmenu-11.0.4.jar",
+                     "sha1":  "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
+                     "size":  973059
+                 },
+                 {
+                     "name":  "morechathistory-1.3.1.jar",
+                     "label":  "Morechathistory",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/morechathistory-1.3.1.jar",
+                     "sha1":  "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e",
+                     "size":  3573
+                 },
+                 {
+                     "name":  "moreculling-fabric-1.21.1-1.0.7.jar",
+                     "label":  "Moreculling",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/moreculling-fabric-1.21.1-1.0.7.jar",
+                     "sha1":  "733ba14a0b780c76ffef5935a512aedb8e1bef60",
+                     "size":  346926
+                 },
+                 {
+                     "name":  "optigui-2.3.0-beta.9+1.21.jar",
+                     "label":  "Optigui",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/optigui-2.3.0-beta.9+1.21.jar",
+                     "sha1":  "9f72bd80779118624138cace74da349b5cf31b6f",
+                     "size":  614152
+                 },
+                 {
+                     "name":  "paginatedadvancements-2.5.1.jar",
+                     "label":  "Paginatedadvancements",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/paginatedadvancements-2.5.1.jar",
+                     "sha1":  "23a4570fb52d62135d705156079e52ddfe980b94",
+                     "size":  71859
+                 },
+                 {
+                     "name":  "placeholder-api-2.4.2+1.21.jar",
+                     "label":  "Placeholder Api",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/placeholder-api-2.4.2+1.21.jar",
+                     "sha1":  "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
+                     "size":  232325
+                 },
+                 {
+                     "name":  "polytone-fabric-1.21-3.7.1.jar",
+                     "label":  "Polytone",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/polytone-fabric-1.21-3.7.1.jar",
+                     "sha1":  "4bf48a8b2c6fd9fa4dea7c2ce0f2c92a872958af",
+                     "size":  1693108
+                 },
+                 {
+                     "name":  "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+                     "label":  "Reeses Sodium Options",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+                     "sha1":  "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+                     "size":  81067
+                 },
+                 {
+                     "name":  "rrls-5.0.10+mc1.21.1-fabric.jar",
+                     "label":  "Rrls",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/rrls-5.0.10+mc1.21.1-fabric.jar",
+                     "sha1":  "ea0465c3191eb78696aa44434a46af2bac013f11",
+                     "size":  172463
+                 },
+                 {
+                     "name":  "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+                     "label":  "Sodium Extra",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+                     "sha1":  "66160fac4fdb9ddd854c5ed068fc329d24d09fd1",
+                     "size":  373661
+                 },
+                 {
+                     "name":  "sodium-fabric-0.6.13+mc1.21.1.jar",
+                     "label":  "Sodium",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/sodium-fabric-0.6.13+mc1.21.1.jar",
+                     "sha1":  "928a2598178c3a58b0638bab842f467d2e49251a",
+                     "size":  1297761
+                 },
+                 {
+                     "name":  "voicechat-fabric-1.21.1-2.6.22.jar",
+                     "label":  "Voicechat",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/voicechat-fabric-1.21.1-2.6.22.jar",
+                     "sha1":  "2b3f229ed746955b756807a92e09e9a32d636776",
+                     "size":  5369475
+                 },
+                 {
+                     "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+                     "label":  "Yet Another Config Lib",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+                     "sha1":  "e075503382f70715ab9fc6f66d603397a86eb3e0",
+                     "size":  1131265
+                 },
+                 {
+                     "name":  "yosbr-0.1.2.jar",
+                     "label":  "Yosbr",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/yosbr-0.1.2.jar",
+                     "sha1":  "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+                     "size":  17373
+                 },
+                 {
+                     "name":  "zoomify-2.15.2+1.21.1.jar",
+                     "label":  "Zoomify",
+                     "packs":  [
+                                   "optimizado"
+                               ],
+                     "local":  "mods/optimizado/zoomify-2.15.2+1.21.1.jar",
+                     "sha1":  "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6",
+                     "size":  872937
+                 },
+                 {
+                     "name":  "BadOptimizations-2.4.1-1.21.1.jar",
+                     "label":  "Badoptimizations",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/BadOptimizations-2.4.1-1.21.1.jar",
+                     "sha1":  "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+                     "size":  283566
+                 },
+                 {
+                     "name":  "CleanF3-0.4.10.jar",
+                     "label":  "Cleanf3",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/CleanF3-0.4.10.jar",
+                     "sha1":  "e4b2e232713bfceacb7c2c6a3745fe42a40be368",
+                     "size":  18863
+                 },
+                 {
+                     "name":  "CustomSkinLoader_Universal-15.0.1.jar",
+                     "label":  "Customskinloader Universal",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/CustomSkinLoader_Universal-15.0.1.jar",
+                     "sha1":  "ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a",
+                     "size":  218215
+                 },
+                 {
+                     "name":  "CustomWindowTitle-1.21.4+v1.4.1.jar",
+                     "label":  "Customwindowtitle",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/CustomWindowTitle-1.21.4+v1.4.1.jar",
+                     "sha1":  "db89df2f80e8842b4ad0ed634d59f35b53f5061b",
+                     "size":  24505
+                 },
+                 {
+                     "name":  "EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+                     "label":  "Euphoriapatcher",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+                     "sha1":  "2a596436fca404cf497c1e9228d6cd9748d1fbf2",
+                     "size":  4296552
+                 },
+                 {
+                     "name":  "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+                     "label":  "Forgeconfigapiport",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+                     "sha1":  "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
+                     "size":  633065
+                 },
+                 {
+                     "name":  "ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
+                     "label":  "Immediatelyfast",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar",
+                     "sha1":  "e4e125088d8654f91562e78a00bdec22f74bc07f",
+                     "size":  336763
+                 },
+                 {
+                     "name":  "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
+                     "label":  "Inventoryprofilesnext",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
+                     "sha1":  "a99471cb13f2c3c355ab3a61483580ccfa0d3693",
+                     "size":  1331935
+                 },
+                 {
+                     "name":  "Ixeris-4.5.1+1.21.1-fabric.jar",
+                     "label":  "Ixeris",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/Ixeris-4.5.1+1.21.1-fabric.jar",
+                     "sha1":  "938bb8bbc387e92e63066fe84f7bde86f859f43d",
+                     "size":  722533
+                 },
+                 {
+                     "name":  "ModernUI-Fabric-1.21.1-3.13.0.1-universal.jar",
+                     "label":  "Modernui",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/ModernUI-Fabric-1.21.1-3.13.0.1-universal.jar",
+                     "sha1":  "a84fba1ca9382c6f777a7340fa0dbf0cfc5c4b48",
+                     "size":  25181222
+                 },
+                 {
+                     "name":  "ObsidianUI-fabric-0.2.9+mc1.21.1.jar",
+                     "label":  "Obsidianui",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/ObsidianUI-fabric-0.2.9+mc1.21.1.jar",
+                     "sha1":  "12a8051e00f7725b724b280ad521ee6e8ce5c9e4",
+                     "size":  209744
+                 },
+                 {
+                     "name":  "Resourcify (1.21.1-fabric)-1.8.3.jar",
+                     "label":  "Fabric",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/Resourcify (1.21.1-fabric)-1.8.3.jar",
+                     "sha1":  "8eecb01de4cf4227d9dbea533a5954cbcf75bfa5",
+                     "size":  2624971
+                 },
+                 {
+                     "name":  "RoughlyEnoughItems-16.0.799-fabric.jar",
+                     "label":  "Roughlyenoughitems",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/RoughlyEnoughItems-16.0.799-fabric.jar",
+                     "sha1":  "ea0efe8b13a52e9d8d5a18d062810117a7efec0f",
+                     "size":  2451799
+                 },
+                 {
+                     "name":  "RyoamicLights-fabric-0.2.11+mc1.21.1.jar",
+                     "label":  "Ryoamiclights",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/RyoamicLights-fabric-0.2.11+mc1.21.1.jar",
+                     "sha1":  "d0d7a4639b289ecc25d04ff91bad4ca9885dc645",
+                     "size":  607118
+                 },
+                 {
+                     "name":  "Searchables-fabric-1.21.1-1.0.2.jar",
+                     "label":  "Searchables",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/Searchables-fabric-1.21.1-1.0.2.jar",
+                     "sha1":  "2777db0b967e80e0659053154f32f14a0e99a7a7",
+                     "size":  79531
+                 },
+                 {
+                     "name":  "ViaFabric-0.4.15+84-main.jar",
+                     "label":  "Viafabric Main",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/ViaFabric-0.4.15+84-main.jar",
+                     "sha1":  "7e8d1fa30b7eb9fbce9495af59246fc263ac5e91",
+                     "size":  4915633
+                 },
+                 {
+                     "name":  "XaeroPlus-2.33.3+fabric-1.21.1-WM1.41.2-MM26.1.0.jar",
+                     "label":  "Xaeroplus",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/XaeroPlus-2.33.3+fabric-1.21.1-WM1.41.2-MM26.1.0.jar",
+                     "sha1":  "7b494fd729a45007469c6468f47363d682a8bd71",
+                     "size":  8094275
+                 },
+                 {
+                     "name":  "advancementinfo-1.20.4-fabric0.91.2-1.4.jar",
+                     "label":  "Advancementinfo",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/advancementinfo-1.20.4-fabric0.91.2-1.4.jar",
+                     "sha1":  "3ab9587606fdd6ad071973481797a049431eaaba",
+                     "size":  44700
+                 },
+                 {
+                     "name":  "animatica-0.6.1+1.21.jar",
+                     "label":  "Animatica",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/animatica-0.6.1+1.21.jar",
+                     "sha1":  "fd805fa03e25013b9fe824bf43f7d8a90f565c84",
+                     "size":  71502
+                 },
+                 {
+                     "name":  "appleskin-fabric-mc1.21-3.0.6.jar",
+                     "label":  "Appleskin",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/appleskin-fabric-mc1.21-3.0.6.jar",
+                     "sha1":  "97452cfadfde1f8f8c67838643019eabafa58fbb",
+                     "size":  1082585
+                 },
+                 {
+                     "name":  "architectury-13.0.8-fabric.jar",
+                     "label":  "Architectury",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/architectury-13.0.8-fabric.jar",
+                     "sha1":  "e71346a43c563e5784580dd096338acfb45f49d4",
+                     "size":  600915
+                 },
+                 {
+                     "name":  "badpackets-fabric-0.8.2.jar",
+                     "label":  "Badpackets",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/badpackets-fabric-0.8.2.jar",
+                     "sha1":  "5479129bfeaaad1ff2f8c5ebbda8a6dc7c4d7aaf",
+                     "size":  55638
+                 },
+                 {
+                     "name":  "betterstats-3.13.9+fabric-1.21.jar",
+                     "label":  "Betterstats",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/betterstats-3.13.9+fabric-1.21.jar",
+                     "sha1":  "9efb20a491a2e3b801ce8dbe5488356e08d2b1fc",
+                     "size":  442117
+                 },
+                 {
+                     "name":  "c2me-fabric-mc1.21.1-0.4.0-alpha.0.19.jar",
+                     "label":  "C2me",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/c2me-fabric-mc1.21.1-0.4.0-alpha.0.19.jar",
+                     "sha1":  "ede3fcd9d83a2f27265f99dbc0f6b0e359e429a6",
+                     "size":  3748765
+                 },
+                 {
+                     "name":  "capes-1.5.4+1.21-fabric.jar",
+                     "label":  "Capes",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/capes-1.5.4+1.21-fabric.jar",
+                     "sha1":  "11655909a800fd70e2e0ca940cddc2bdbcbe2003",
+                     "size":  77572
+                 },
+                 {
+                     "name":  "chat_heads-0.15.2-fabric-1.21.jar",
+                     "label":  "Chat Heads",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/chat_heads-0.15.2-fabric-1.21.jar",
+                     "sha1":  "67423090c246e3984da312c2f8df5980bd66e49c",
+                     "size":  84297
+                 },
+                 {
+                     "name":  "cloth-config-15.0.140-fabric.jar",
+                     "label":  "Cloth Config",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/cloth-config-15.0.140-fabric.jar",
+                     "sha1":  "5d82342a2df53fd6df712bfdd583a811572918a4",
+                     "size":  1157166
+                 },
+                 {
+                     "name":  "continuity-3.0.0+1.21.jar",
+                     "label":  "Continuity",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/continuity-3.0.0+1.21.jar",
+                     "sha1":  "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
+                     "size":  1014044
+                 },
+                 {
+                     "name":  "cwb-fabric-3.0.0+mc1.21.jar",
+                     "label":  "Cwb",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/cwb-fabric-3.0.0+mc1.21.jar",
+                     "sha1":  "0979201d1d131a3bf0594060c58da7dcb55aded6",
+                     "size":  81288
+                 },
+                 {
+                     "name":  "durabilityviewer-1.21-1.11.0.jar",
+                     "label":  "Durabilityviewer",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/durabilityviewer-1.21-1.11.0.jar",
+                     "sha1":  "faa92ff7d06598c71f5490aa9764c7dac2301873",
+                     "size":  91329
+                 },
+                 {
+                     "name":  "dynamiccrosshair-9.11+1.21.1-fabric.jar",
+                     "label":  "Dynamiccrosshair",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/dynamiccrosshair-9.11+1.21.1-fabric.jar",
+                     "sha1":  "bc409ae6b7d845f1f1b974fe8448cda540251d7b",
+                     "size":  512191
+                 },
+                 {
+                     "name":  "e4mc-fabric-6.2.0.jar",
+                     "label":  "E4mc",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/e4mc-fabric-6.2.0.jar",
+                     "sha1":  "66eeb81d539623947921c0019a0d6fbea997464c",
+                     "size":  661711
+                 },
+                 {
+                     "name":  "enhancedblockentities-0.10.2+1.21.jar",
+                     "label":  "Enhancedblockentities",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/enhancedblockentities-0.10.2+1.21.jar",
+                     "sha1":  "d81359d77fc7c5437f3e83e519dc2f869300f0cd",
+                     "size":  201157
+                 },
+                 {
+                     "name":  "entity_model_features-3.2.4-1.21-fabric.jar",
+                     "label":  "Entity Model Features",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/entity_model_features-3.2.4-1.21-fabric.jar",
+                     "sha1":  "4538d0eec804c3a8f8c3a6809f687e362df588cf",
+                     "size":  565280
+                 },
+                 {
+                     "name":  "entity_texture_features_1.21-fabric-7.1.jar",
+                     "label":  "Entity Texture Features 1.21",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/entity_texture_features_1.21-fabric-7.1.jar",
+                     "sha1":  "2020e3884ada68d7aba1d54f182d32d511c40e5f",
+                     "size":  745421
+                 },
+                 {
+                     "name":  "entityculling-fabric-1.10.5-mc1.21.1.jar",
+                     "label":  "Entityculling",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/entityculling-fabric-1.10.5-mc1.21.1.jar",
+                     "sha1":  "7e8c9c44049e6575e75d1fe38d6006306b8d5623",
+                     "size":  1595131
+                 },
+                 {
+                     "name":  "exordium-fabric-1.4.2-mc1.21.jar",
+                     "label":  "Exordium",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/exordium-fabric-1.4.2-mc1.21.jar",
+                     "sha1":  "937dfbbaaaebe935bc6c2538861c7b75106b07b6",
+                     "size":  218732
+                 },
+                 {
+                     "name":  "fabric-api-0.116.13+1.21.1.jar",
+                     "label":  "Api",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/fabric-api-0.116.13+1.21.1.jar",
+                     "sha1":  "a8107fd8fd3e805d9ca87453e36b4556d92b55da",
+                     "size":  2427135
+                 },
+                 {
+                     "name":  "fabric-carpet-1.21.1-1.4.147+v240813.jar",
+                     "label":  "Carpet",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/fabric-carpet-1.21.1-1.4.147+v240813.jar",
+                     "sha1":  "8ec8c9109a25df15fe5578adc1ce83c46e1b68c7",
+                     "size":  1524967
+                 },
+                 {
+                     "name":  "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                     "label":  "Language Kotlin",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+                     "sha1":  "2bc17bb4275cc70a12e4ac35d139a71a30845720",
+                     "size":  8076848
+                 },
+                 {
+                     "name":  "fastquit-3.0.0+1.20.6.jar",
+                     "label":  "Fastquit",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/fastquit-3.0.0+1.20.6.jar",
+                     "sha1":  "9c4bf4fc3292d627fe0eff85a96672a15f27338c",
+                     "size":  58822
+                 },
+                 {
+                     "name":  "ferritecore-7.0.3-fabric.jar",
+                     "label":  "Ferritecore",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/ferritecore-7.0.3-fabric.jar",
+                     "sha1":  "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+                     "size":  123450
+                 },
+                 {
+                     "name":  "forcecloseloadingscreen-2.2.3.jar",
+                     "label":  "Forcecloseloadingscreen",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/forcecloseloadingscreen-2.2.3.jar",
+                     "sha1":  "58a3ba92c29cbe914c18cc1e9c336616b7899ded",
+                     "size":  115043
+                 },
+                 {
+                     "name":  "gugle-carpet-addition-v2.12.5+build.91.jar",
+                     "label":  "Gugle Carpet Addition",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/gugle-carpet-addition-v2.12.5+build.91.jar",
+                     "sha1":  "c01a93238b6d6270ea27b9c02a10e50773ddf4a6",
+                     "size":  5820943
+                 },
+                 {
+                     "name":  "iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+                     "label":  "Iris",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+                     "sha1":  "6776c0340845887477bfa463acc736ce7fcb6de5",
+                     "size":  2791343
+                 },
+                 {
+                     "name":  "itemscroller-fabric-1.21-0.24.60.jar",
+                     "label":  "Itemscroller",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/itemscroller-fabric-1.21-0.24.60.jar",
+                     "sha1":  "6021424b738c3810b635cf66718daff0486e4a60",
+                     "size":  188842
+                 },
+                 {
+                     "name":  "libIPN-fabric-1.21.1-6.6.3.jar",
+                     "label":  "Libipn",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/libIPN-fabric-1.21.1-6.6.3.jar",
+                     "sha1":  "0fdc425d1fc0ad8703256f43deadcadee4328eea",
+                     "size":  636114
+                 },
+                 {
+                     "name":  "lithium-fabric-0.15.4+mc1.21.1.jar",
+                     "label":  "Lithium",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/lithium-fabric-0.15.4+mc1.21.1.jar",
+                     "sha1":  "7d82a004403b7780d4443d8e40361a55cfd0ae63",
+                     "size":  797454
+                 },
+                 {
+                     "name":  "main-menu-credits-1.2.0.jar",
+                     "label":  "Main Menu Credits",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/main-menu-credits-1.2.0.jar",
+                     "sha1":  "c70e6b5d94958c6b3fc668b7c9622e9a4788b806",
+                     "size":  14858
+                 },
+                 {
+                     "name":  "malilib-fabric-1.21-0.21.10.jar",
+                     "label":  "Malilib",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/malilib-fabric-1.21-0.21.10.jar",
+                     "sha1":  "e2699ef71618c54fc03c6c8b28e336603596dcef",
+                     "size":  1411200
+                 },
+                 {
+                     "name":  "mcwifipnp-1.7.1-1.21-fabric.jar",
+                     "label":  "Mcwifipnp",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/mcwifipnp-1.7.1-1.21-fabric.jar",
+                     "sha1":  "33062f249bd875a326410b95e91c557041e8322b",
+                     "size":  68784
+                 },
+                 {
+                     "name":  "midnightlib-fabric-1.9.3+1.21.1.jar",
+                     "label":  "Midnightlib",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/midnightlib-fabric-1.9.3+1.21.1.jar",
+                     "sha1":  "6595a90351e827b99b36fa2c6ef1dde1a4c8fdf1",
+                     "size":  58781
+                 },
+                 {
+                     "name":  "minihud-fabric-1.21-0.32.60.jar",
+                     "label":  "Minihud",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/minihud-fabric-1.21-0.32.60.jar",
+                     "sha1":  "302a3cf8a3054b59dc1dba75799d01ef48d66aa5",
+                     "size":  907264
+                 },
+                 {
+                     "name":  "mixintrace-1.1.1+1.17.jar",
+                     "label":  "Mixintrace",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/mixintrace-1.1.1+1.17.jar",
+                     "sha1":  "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
+                     "size":  36039
+                 },
+                 {
+                     "name":  "modernfix-fabric-5.25.1+mc1.21.1.jar",
+                     "label":  "Modernfix",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/modernfix-fabric-5.25.1+mc1.21.1.jar",
+                     "sha1":  "4ab39e9c736e7204146792c545ec5b29fc0a3872",
+                     "size":  471258
+                 },
+                 {
+                     "name":  "modmenu-11.0.4.jar",
+                     "label":  "Modmenu",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/modmenu-11.0.4.jar",
+                     "sha1":  "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
+                     "size":  973059
+                 },
+                 {
+                     "name":  "morechathistory-1.3.1.jar",
+                     "label":  "Morechathistory",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/morechathistory-1.3.1.jar",
+                     "sha1":  "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e",
+                     "size":  3573
+                 },
+                 {
+                     "name":  "moreculling-fabric-1.21.1-1.0.8.jar",
+                     "label":  "Moreculling",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/moreculling-fabric-1.21.1-1.0.8.jar",
+                     "sha1":  "fcacddf1cecc0fdc9ba937197c74402fd436e9c7",
+                     "size":  332100
+                 },
+                 {
+                     "name":  "notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+                     "label":  "Notenoughanimations",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
+                     "sha1":  "96c0939713956165b31bb65d8416770a21ea52ef",
+                     "size":  1948132
+                 },
+                 {
+                     "name":  "optiboxes-1.4+mc1.21.1-9eba186.jar",
+                     "label":  "Optiboxes",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/optiboxes-1.4+mc1.21.1-9eba186.jar",
+                     "sha1":  "f45cd6c44b50f752c113348c12aa9e42405d6c63",
+                     "size":  452399
+                 },
+                 {
+                     "name":  "polytone-fabric-1.21-3.8.6.jar",
+                     "label":  "Polytone",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/polytone-fabric-1.21-3.8.6.jar",
+                     "sha1":  "3ee3332f164f3fc1341a860944427df0d54fc165",
+                     "size":  1801917
+                 },
+                 {
+                     "name":  "reeses-sodium-options-fabric-2.2.2+mc1.21.1.jar",
+                     "label":  "Reeses Sodium Options",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/reeses-sodium-options-fabric-2.2.2+mc1.21.1.jar",
+                     "sha1":  "d0873f9ec75b111377cd5de795cccd05fca980da",
+                     "size":  256784
+                 },
+                 {
+                     "name":  "rrls-5.0.11+mc1.21.1-fabric.jar",
+                     "label":  "Rrls",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/rrls-5.0.11+mc1.21.1-fabric.jar",
+                     "sha1":  "f4603b2a9961297b30738366196e0cf9f19272c9",
+                     "size":  172635
+                 },
+                 {
+                     "name":  "satin-2.0.0.jar",
+                     "label":  "Satin",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/satin-2.0.0.jar",
+                     "sha1":  "1d1cdadf7554971831bfcd48a5d0baa39d4beef4",
+                     "size":  102437
+                 },
+                 {
+                     "name":  "screenshot_viewer-1.3.3-fabric-mc1.21.jar",
+                     "label":  "Screenshot Viewer",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/screenshot_viewer-1.3.3-fabric-mc1.21.jar",
+                     "sha1":  "1f986d3f9e15e6962c13d7f9c3c511e11df250c1",
+                     "size":  281554
+                 },
+                 {
+                     "name":  "serverpingerfixer-1.0.5.jar",
+                     "label":  "Serverpingerfixer",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/serverpingerfixer-1.0.5.jar",
+                     "sha1":  "9ae83d512cc2edeec9cc0ea223a142a93b7fa7bb",
+                     "size":  7160
+                 },
+                 {
+                     "name":  "shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+                     "label":  "Shulkerboxtooltip",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+                     "sha1":  "3f119c2fe561235f5af384fba4dd7a4b6f1617c2",
+                     "size":  379091
+                 },
+                 {
+                     "name":  "sodium-extra-fabric-0.9.1+mc1.21.1.jar",
+                     "label":  "Sodium Extra",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/sodium-extra-fabric-0.9.1+mc1.21.1.jar",
+                     "sha1":  "b1a6dd3b1cbe05a44e2ecfe25c104f468ca24546",
+                     "size":  445563
+                 },
+                 {
+                     "name":  "sodium-fabric-0.8.12+mc1.21.1.jar",
+                     "label":  "Sodium",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/sodium-fabric-0.8.12+mc1.21.1.jar",
+                     "sha1":  "70381d969eb63c0aa09dc581ef4b9a79782c0123",
+                     "size":  1573180
+                 },
+                 {
+                     "name":  "stendhal-1.4.1-1.21.jar",
+                     "label":  "Stendhal",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/stendhal-1.4.1-1.21.jar",
+                     "sha1":  "a653cc8d30a28d600ad6e1b3045564ebf9d67efc",
+                     "size":  479928
+                 },
+                 {
+                     "name":  "syncmatica-fabric-1.21-0.3.14-sakura.5.jar",
+                     "label":  "Syncmatica",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/syncmatica-fabric-1.21-0.3.14-sakura.5.jar",
+                     "sha1":  "6fb3bba91cd397ac0b2a7fc6ca0b6d9f2551e60f",
+                     "size":  556458
+                 },
+                 {
+                     "name":  "tcdcommons-3.12.7+fabric-1.21.jar",
+                     "label":  "Tcdcommons",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/tcdcommons-3.12.7+fabric-1.21.jar",
+                     "sha1":  "e69155938134ad13b9d37706865f01babc7a0861",
+                     "size":  912896
+                 },
+                 {
+                     "name":  "tradeuses-1.2.5-1.21-FABRIC.jar",
+                     "label":  "Tradeuses",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/tradeuses-1.2.5-1.21-FABRIC.jar",
+                     "sha1":  "0bfea8bce46ee9d74e433c58f894984b203c7441",
+                     "size":  67459
+                 },
+                 {
+                     "name":  "tweakermore-v3.31.0-mc1.21.1.jar",
+                     "label":  "Tweakermore",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/tweakermore-v3.31.0-mc1.21.1.jar",
+                     "sha1":  "d58721cef789172f4581b09669ba880a3b6cf1d7",
+                     "size":  993096
+                 },
+                 {
+                     "name":  "tweakeroo-fabric-1.21-0.21.61.jar",
+                     "label":  "Tweakeroo",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/tweakeroo-fabric-1.21-0.21.61.jar",
+                     "sha1":  "0abe7330be5d4d6c55f1a094ab639e64ea4c5816",
+                     "size":  643553
+                 },
+                 {
+                     "name":  "worldedit-mod-7.3.8.jar",
+                     "label":  "Worldedit Mod",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/worldedit-mod-7.3.8.jar",
+                     "sha1":  "924fe181a29bd66be6783f6d589968ab0ee02250",
+                     "size":  6222854
+                 },
+                 {
+                     "name":  "worldplaytime-1.2.2-1.21-FABRIC.jar",
+                     "label":  "Worldplaytime",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/worldplaytime-1.2.2-1.21-FABRIC.jar",
+                     "sha1":  "4e0e1754a98384e3e9bde9d9bef97bd8aaf3cd8b",
+                     "size":  82286
+                 },
+                 {
+                     "name":  "wthit-1.21.1-fabric-12.10.2.jar",
+                     "label":  "Wthit",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/wthit-1.21.1-fabric-12.10.2.jar",
+                     "sha1":  "a5ad5f3e839a399e5021a543b7aa3c02e462eee0",
+                     "size":  876011
+                 },
+                 {
+                     "name":  "xaerominimap-fabric-1.21.1-26.1.0.jar",
+                     "label":  "Xaerominimap",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/xaerominimap-fabric-1.21.1-26.1.0.jar",
+                     "sha1":  "c9ce9fcf34f00d5490c5a08a16d45850784992d2",
+                     "size":  2177932
+                 },
+                 {
+                     "name":  "xaeroworldmap-fabric-1.21.1-1.41.2.jar",
+                     "label":  "Xaeroworldmap",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/xaeroworldmap-fabric-1.21.1-1.41.2.jar",
+                     "sha1":  "587a0164cd4c7742d1271fbdb448e826b139d2b4",
+                     "size":  1416055
+                 },
+                 {
+                     "name":  "xplus-autofish-1.3.4-fabric-mc1.21.1.jar",
+                     "label":  "Xplus Autofish",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/xplus-autofish-1.3.4-fabric-mc1.21.1.jar",
+                     "sha1":  "bca25dd55e048afe2d911bbc7e49d13c03a4eac3",
+                     "size":  121105
+                 },
+                 {
+                     "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+                     "label":  "Yet Another Config Lib V3",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+                     "sha1":  "e075503382f70715ab9fc6f66d603397a86eb3e0",
+                     "size":  1131265
+                 },
+                 {
+                     "name":  "zoomify-2.15.2+1.21.1.jar",
+                     "label":  "Zoomify",
+                     "packs":  [
+                                   "hard"
+                               ],
+                     "local":  "mods/hard/zoomify-2.15.2+1.21.1.jar",
+                     "sha1":  "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6",
+                     "size":  872937
+                 }
+             ],
+    "loader":  "fabric",
+    "loaderVersion":  "0.18.4",
+    "server":  {
+                   "name":  "EVERLAND - Supervivencia Custom",
+                   "host":  "mc.wenuupstudio.cl",
+                   "port":  25662
+               }
+}

@@ -1,0 +1,11 @@
+# Normalizar saltos de linea en el repositorio
+* text=auto eol=lf
+
+# Binarios
+*.png binary
+*.jpg binary
+*.ico binary
+*.jar binary
+*.exe binary
+*.7z binary
+*.zip binary
