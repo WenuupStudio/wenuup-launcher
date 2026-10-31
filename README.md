@@ -2,7 +2,7 @@
 
 # Wenuup Studio Launcher
 
-**Launcher oficial de Wenuup Studio Live** para Minecraft Java Edition · Fabric 1.21.1
+**Launcher oficial de Wenuup Studio** para Minecraft Java Edition · Fabric 1.21.1
 
 **Código abierto. Sin telemetría. Sin scripts ocultos. Puedes leer cada línea.**
 
@@ -329,7 +329,7 @@ Windows SmartScreen marca los ejecutables que **no están firmados** con un
 certificado de pago. Firmarlo cuesta entre **USD 115 y USD 300 al año**, y hay que
 renovarlo cada año.
 
-Wenuup Studio Live es un servidor de comunidad, sin ingresos, y esa plata sale de nuestro
+Wenuup Studio es un servidor de comunidad, sin ingresos, y esa plata sale de nuestro
 propio tiempo. Mientras tanto, el launcher **te avisa de esto dentro de la propia
 aplicación** la primera vez que la abres, para que nadie se asuste ni lo borre.
 
@@ -342,7 +342,7 @@ Solo se pide una vez.
 
 MIT — ver [LICENSE](LICENSE).
 
-El código es libre de usar y modificar. El nombre y la marca **Wenuup Studio Live**
+El código es libre de usar y modificar. El nombre y la marca **Wenuup Studio**
 pertenecen a sus titulares.
 
 ---
